@@ -1,6 +1,6 @@
 # Pacman Game in C++
 
-## Note: Game uses SFML (C++) and SQLite3 Amalgamation Code (C).
+## Note: This Game uses SFML (C++) and SQLite3 Amalgamation Code (C).
 
 ### Introduction:
 
@@ -37,4 +37,4 @@ clean:
 
 ### Contribution:
 
-This Project would have never been possible without the help of [Zayed A](https://github.com/zayabdull), ie: My Brother. Thank you for your help.
+This Project would have never been possible without the help of [Zayed A](https://github.com/zayabdull). Thank you for your help.
