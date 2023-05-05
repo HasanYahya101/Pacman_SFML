@@ -6,7 +6,7 @@
 
 ## Project Versions:
 
-### There are two folders present here, which are _*"First Version"*_ and _*"Second Version2*_. Since, this proect is also for OOP and ISE Project Evaluation and i couldn't complete the full version in time, i created the "First Version". But, the "Second Version" is the complete version. Check the respective README Files for more information.
+### There are two folders present here, which are __*"First Version"*__ and __*"Second Version"*__. Since, this proect is also for OOP and ISE Project Evaluation and i couldn't complete the full version in time, i created the "First Version". But, the "Second Version" is the complete version. Check the respective README Files for more information.
 
 ## Compilation Instructions:
 
