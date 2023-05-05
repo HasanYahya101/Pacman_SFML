@@ -34,3 +34,7 @@ link:
 clean:
 	rm -f main.*o sqlite3.o
 ```
+
+### Contribution:
+
+This Project would have never been possible without the help of [Zayed A](https://github.com/zayabdull). Thank you for your help.
