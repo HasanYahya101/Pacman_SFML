@@ -4,7 +4,7 @@
 
 ### Introduction:
 
-Note: This Project uses code from SFML and SQLite3. You can view there codes in [SFML](https://www.sfml-dev.org/download.php) and [SQLite3](https://www.sqlite.org/amalgamation.html). All rights, go to their respective owners and if you see their code files along with my code files, then before using check their policy.
+Note: This Project uses code from SFML and SQLite3. You can view there codes in [SFML](https://www.sfml-dev.org/download.php) and [SQLite3](https://www.sqlite.org/amalgamation.html). All rights, go to their respective owners and if you see their code files along with my code files, then before using them, check their policy. I will bear no responsibility for your negligence.
 
 ### Project Versions:
 
