@@ -4,7 +4,7 @@
 
 ### Introduction:
 
-Note: This Project uses code from SFML and SQLite3. You can view there codes in [SFML](https://www.sfml-dev.org/download.php) and [SQLite3](https://www.sqlite.org/amalgamation.html). All rights, go to their respective owners and if you see their code files along with my code files, then before using them, check their policy. I will bear no responsibility for your negligence.
+Note: This Project uses code from `SFML` and `SQLite3`. You can view there codes in [SFML](https://www.sfml-dev.org/download.php) and [SQLite3](https://www.sqlite.org/amalgamation.html). All rights, go to their respective owners and if you see their code files along with my code files, then before using them, check their policy. I will bear no responsibility for your negligence.
 
 ### Project Versions:
 
@@ -12,7 +12,7 @@ There are two folders present here, which are __*"First Version"*__ and __*"Seco
 
 ### Compilation Instructions:
 
-You can use the __*Makefile*__ given below for compilation of code. Make sure to change the SFML_INCLUDE and SFML_LIB variables according to the path where you have installed SFML. To compile the code, run make command in the terminal. This will compile the code and create an executable file named "main". To remove the object files and executable, run make clean command.
+You can use the __*Makefile*__ given below for compilation of code. Make sure to change the `SFML_INCLUDE` and `SFML_LIB` variables according to the path where you have installed SFML. To compile the code, run `make` command in the terminal. This will compile the code and create an executable file named "main". To remove the object files and executable, run `make clean` command.
 
 ```
 SFML_INCLUDE = "C:\SFML-2.5.1_(VS_Code)\include" // or add your own path
